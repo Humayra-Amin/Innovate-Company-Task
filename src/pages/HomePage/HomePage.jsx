@@ -1,7 +1,11 @@
+import Discover from "../Discover/Discover";
+import Overview from "../Overview/Overview";
 
 const HomePage = () => {
     return (
-        <div className="bg-gradient-to-b from-gray-200 to-gray-50">
+        <div>
+            {/* <Overview></Overview> */}
+            <Discover></Discover>
         </div>
     );
 };
