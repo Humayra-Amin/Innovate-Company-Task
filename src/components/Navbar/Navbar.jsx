@@ -40,7 +40,7 @@ const Navbar = () => {
             </div>
 
             {/* Search */}
-            <div className="flex items-center bg-white rounded-full w-[200px] md:w-[200px] mt-4 md:mt-0">
+            <div className="flex items-center bg-white rounded-full w-[200px] md:w-[200px] lg:w-[300px] mt-4 md:mt-0">
                 <input
                     type="text"
                     placeholder="Search"
