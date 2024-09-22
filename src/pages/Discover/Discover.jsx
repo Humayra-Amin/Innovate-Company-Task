@@ -7,10 +7,10 @@ const Data = [
         total: '1 of 09',
         color: 'bg-gradient-to-r from-[#DED4F8] to-[#BE92FB]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#9747FF] to-[#651BC6]',
@@ -23,10 +23,10 @@ const Data = [
         total: '1 of 19',
         color: 'bg-gradient-to-r from-[#0FA958] to-[#94FFE6]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#9747FF] to-[#651BC6]',
@@ -39,10 +39,10 @@ const Data = [
         total: '1 of 64',
         color: 'bg-gradient-to-r from-[#2768BF] to-[#E6E6E6]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#26DBDB] to-[#A0FCD9]',
@@ -55,10 +55,10 @@ const Data = [
         total: '1 of 06',
         color: 'bg-gradient-to-r from-[#4C2F72] to-[#BE92FB]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#26DBDB] to-[#A0FCD9]',
@@ -71,10 +71,10 @@ const Data = [
         total: '1 of 09',
         color: 'bg-gradient-to-r from-[#DED4F8] to-[#BE92FB]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#9747FF] to-[#651BC6]',
@@ -87,10 +87,10 @@ const Data = [
         total: '1 of 19',
         color: 'bg-gradient-to-r from-[#0FA958] to-[#94FFE6]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#9747FF] to-[#651BC6]',
@@ -103,10 +103,10 @@ const Data = [
         total: '1 of 64',
         color: 'bg-gradient-to-r from-[#2768BF] to-[#E6E6E6]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#26DBDB] to-[#A0FCD9]',
@@ -119,10 +119,10 @@ const Data = [
         total: '1 of 06',
         color: 'bg-gradient-to-r from-[#4C2F72] to-[#BE92FB]',
         images: [
-            '/Ellipse 9.png',
-            '/Ellipse 11.png',
-            '/Ellipse 8.png',
-            '/Ellipse 10.png'
+            '/images/Ellipse 9.png',
+            '/images/Ellipse 11.png',
+            '/images/Ellipse 8.png',
+            '/images/Ellipse 10.png'
         ],
         dsvbdColors: [
             'bg-gradient-to-r from-[#26DBDB] to-[#A0FCD9]',
