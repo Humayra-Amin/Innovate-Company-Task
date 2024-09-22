@@ -148,7 +148,7 @@ const Discover = () => {
                 </div>
                 <div>
                     <button className="flex items-center px-4 py-2 bg-[#E9E9E9] text-[#4000FF] rounded-full">
-                        <Image src="/images/ion_filter.png" className="mr-0 md:mr-2 lg:mr-2" />
+                        <Image src="/images/ion_filter.png" alt="Filter Icon" width={24} height={24} className="mr-2" />
                         All Filters
                     </button>
                 </div>
@@ -166,10 +166,12 @@ const Discover = () => {
                         <div className="p-4">
                             <div className="flex -space-x-3 -mt-8 mb-2">
                                 {card.images.map((image, idx) => (
-                                    <img
+                                    <Image
                                         key={idx}
                                         src={image}
                                         alt={`image ${idx + 1}`}
+                                        width={32} // Set the width of the image
+                                        height={32} // Set the height of the image
                                         className="w-8 h-8 rounded-full border-2 border-white"
                                     />
                                 ))}
