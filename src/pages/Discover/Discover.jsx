@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const Data = [
     {
-        title: 'Art stuff',
+        title: 'Art stuf',
         price: '598 TK',
         total: '1 of 09',
         color: 'bg-gradient-to-r from-[#DED4F8] to-[#BE92FB]',
@@ -165,16 +165,16 @@ const Discover = () => {
 
                         <div className="p-4">
                             <div className="flex -space-x-3 -mt-8 mb-2">
-                                {card.images.map((image, idx) => (
-                                    <Image
-                                        key={idx}
-                                        src={image}
-                                        alt={`image ${idx + 1}`}
-                                        width={32} 
-                                        height={32} 
-                                        className="w-8 h-8 rounded-full border-2 border-white"
-                                    />
-                                ))}
+                            {card.images.map((image, idx) => (
+    <Image
+        key={image} 
+        src={image}
+        alt={`Image of ${card.title}`} // More descriptive alt text
+        width={32} 
+        height={32} 
+        className="w-8 h-8 rounded-full border-2 border-white"
+    />
+))}
                             </div>
 
                             <h3 className="text-lg font-semibold mb-1">{card.title}</h3>
