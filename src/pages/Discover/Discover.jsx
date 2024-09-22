@@ -148,7 +148,7 @@ const Discover = () => {
                 </div>
                 <div>
                     <button className="flex items-center px-4 py-2 bg-[#E9E9E9] text-[#4000FF] rounded-full">
-                        <Image  src="/ion_filter.png" className="mr-0 md:mr-2 lg:mr-2" />
+                        <Image src="/images/ion_filter.png" className="mr-0 md:mr-2 lg:mr-2" />
                         All Filters
                     </button>
                 </div>
