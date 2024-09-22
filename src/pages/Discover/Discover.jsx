@@ -170,8 +170,8 @@ const Discover = () => {
                                         key={idx}
                                         src={image}
                                         alt={`image ${idx + 1}`}
-                                        width={32} // Set the width of the image
-                                        height={32} // Set the height of the image
+                                        width={32} 
+                                        height={32} 
                                         className="w-8 h-8 rounded-full border-2 border-white"
                                     />
                                 ))}
